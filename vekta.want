@@ -1,0 +1,2889 @@
+{> vekta:}
+
+{> temple_decorator}
+* Temple
+* Hallow
+Shrine of *
+
+{> dialog_aside_prequel}
+You fool! I've been trained in your {item_adj_common} arts by {person}. *So uncivilized. *I have waited a long time for this moment. *I don't understand. 
+Back away; I will deal with this {item_adj_common} slime myself. *So uncivilized. *I have waited a long time for this moment. *I don't understand.
+
+{> dialog_acting_suspicious}
+| They unceremoniously push you out of the room. *Fair enough. *:ask_leave Oh no you don't!
+| They hastily cover a suspicious-looking object. *:ask_leave What's that?
+
+{> dialog_advice_thank}
+Thank you for your help! *Sure thing.
+Much appreciated!
+You're the boss! 
+Many thanks! 
+Wow, good idea!
+Goodness, I never would have thought of that on my own! *Just doing my job. *Was that sarcasm?
+
+{> dialog_advice}
+Space worms are eating all our crops! What should we do? *Worm-o makes 'em squirm-o. *Send in the army! *They're just crops...
+{person} has stolen the town's {item_rare}. What should we do as punishment? *To the gallows! *It's forgivable, just reprimand him. *He stole the what?
+A mysterious creature from {star} has arrived demanding payments. How should we proceed? *Have you tried talking to it? *Use lethal force. *Don't make eye contact. 
+{person} {action_past_bad}! What's your take? *That's a shame. *Break their legs.
+
+{> dialog_ask_leave}
+You'd better leave while you have the chance. *Will do.
+You probably don't want to be here right now. *Fair enough. 
+Get out of here. 
+Better leave while you can. 
+I'm going to give you one chance to leave. *Will do.
+I'd recommend running as far and fast as you can before I break out the {item_common}. *Sounds fair.
+
+{> dialog_autograph}
+Here you go!
+
+{> dialog_busy}
+I'm a bit busy right now. Do you think you could come back later? *Sure. *:acting_suspicious You don't look very busy.
+Scoot off, {impersonal_name_angry}. *Alright then.
+Can't you see I'm a bit busy with my {item_common}? *Better leave you to it.
+
+{> dialog_call_security}
+! Security! *This isn't good...
+| You hear sirens in the distance. Time to get out of here!
+...Yeah, I'm going to call security. *You'll never take me alive!
+Hey there. Nice timing for you to show up.
+Security's already on the way here. 
+You shouldn't be here! 
+It's you! Security!
+Don't make me call the guards... *:ask_leave Wait! Hear me out.
+
+{> dialog_confession}
+Alright, fine, I did it. It was a great business opportunity! *Sure, sure. 
+Yeah, that was me. *:ask_leave I thought so. *:react_angry You're going to pay for your actions.
+
+{> dialog_confronted}
+It wasn't me! I promise I didn't do it! *We'll see about that. *Who did it then?
+{person} made me do it! I'm innocent! *We'll see about that. *That's what they all say. 
+Why is everyone out to get me? I make the news for my {item_rare} and now everyone's trying to discredit me. *We'll see about that. *It all makes sense now.
+
+{> dialog_continue}
+Oh, and one more thing...
+Also!
+
+{> dialog_dead}
+| You stare at their lifeless corpse. *Well then.
+| They appear to be quite dead. *That's unfortunate. 
+| They're definitely dead. *Yikes.
+
+{> dialog_different_language}
+| You can't understand what they are saying at all. *Come again?
+| You have absolutely no idea what they're saying. *Could you repeat that?
+| You can't understand their language at all. *I'm not sure I understand you. 
+| They say something vaguely related to {star} or {settlement}. It's not entirely clear. *Huh?
+| It sounds as though they are speaking in an obscure foreign language. *Not sure I understand. 
+| They make a loud snorting noise. 
+| They honk enthusiastically. 
+| Their voice transcends your range of hearing. *I can't hear you speak. 
+| They stare at you for a while. *Yes?
+
+{> dialog_flexed_upon}
+Nice. *I know, right?
+All hail the mighty...what's your name again? *Watch your mouth. *Is that sarcasm?
+Yeah, yeah. *That's right.
+
+{> dialog_follower}
+At your service!
+What's the job?
+Long time no see, partner.
+Howdy!
+Hello!
+What's up?
+How's it going?
+Ready for action.
+Reporting for duty.
+This better be important...
+
+{> dialog_greeting}
+Good day, traveler! It's been a while since last time I've seen you.
+What's up, my dude? I'd heard that you might be passing by.
+Hello there! *Hi. *:aside_prequel You are a bold one.
+Howdy!
+How are you today? *I'm fine, thanks. *Good. *Yes.
+Hey! What are you doing flying out here? *Just snooping around. *Nice to see you again, old friend.
+You... *Yes? *Me.
+Get over here, you {item_adj_common} little {item_noun}. *Okay! *What did you just call me?
+Greetings!
+How's my dude?
+Great to see you! *Likewise.
+
+{> dialog_identify_fail}
+Fake! *What? *Seems unlikely.
+Looks pretty fake to me. *Okay. *Are you sure about that?
+Definitely a counterfeit. *Oh. *I don't think so...
+Actually, I have no idea what this is. *Thanks anyway.
+It's probably one of those things they had on {planet}. *I'm not sure about that...
+
+{> dialog_identify}
+Hmm, let me see...
+Let me check the database...
+Oh, I know exactly what that is!
+| They stare at it for an uncomfortably long time. *So...
+| They grab the item and start sniffing it. 
+Aha!
+Whoa!
+By {person}'s {item}!
+
+{> dialog_nervous_assassin}
+I don't like the look in your eyes... 
+They warned me about an assassin. Have you heard anything about it? *:call_security Yup. *Nothing comes to mind. 
+Why are you looking so shifty, eh? *Long story. 
+Why the long face? *Long story. *None of your business. 
+Don't tell anyone, but I think someone's out for my life. *:call_security Yup. *Sorry to hear that. 
+Keep an eye out for me, will ya? *Will do.
+Watch my back. *Sure thing.
+
+{> dialog_offer_weapon}
+Shhh...
+Have I got the tool for you...
+Check out this puppy.
+You sure asked the right person.
+Tell nobody.
+Perhaps this will come in handy...
+Now, now, now...
+Hypothetically speaking, I got you covered.
+
+{> dialog_offer}
+Hey kiddo: I found something for you.
+Check out this thing I found!
+I thought you'd get a kick out of this.
+
+{> dialog_react_angry}
+! What the heck!? 
+! Excuse you!
+! Bro!
+! Some kind of day you must be having... *It's been pretty great, actually. *Don't mess with me, {impersonal_name_angry}. 
+! Too far! Actually, no that was pretty funny. 
+! Don't make me do to you what I did to {person}... *Let's not do that.
+! Security! *:call_security Uh oh.
+| They stare at you, daring you to continue. *Okay, I'll leave now. *:ask_leave Why the long face?
+
+{> dialog_react_joke}
+I see what you did there... *I got more where that came from. *Anyways...
+That joke was a crime against all interstellar life forms. *Anyways...
+That joke caused me actual physical pain. *Anyways...
+| They let out a labored sigh. *Anyways...
+| They stare at you, completely unamused. *Anyways...
+
+{> dialog_react_worm}
+Not the Worm-o again... *That's right.
+It's really not that good. Hugely overmarketed. *Nah, I've used it myself. *Probably. *It doesn't matter. It's Worm-o!
+Yes, and the word Worm-o is from your people's language, I get it. *How did you guess? *Not exactly...
+What's up with you and Worm-o lately? *Smells nice. *It's a great product. *(Say nothing) 
+It can't fix everything, you know. *(Obviously) *But it's Worm-o!
+
+{> dialog_receive}
+Thank you so much! I was running out of those. *No problem. 
+What took you so long? *Space worms. *You're welcome.
+Hey, I almost forgot about that! So much for expedited shipping...
+
+{> dialog_recharge}
+Looks to me like you're out of gas. I can help with that, but only if you have the cheddar...
+
+{> dialog_request}
+Could you do me a favor? 
+I'm currently in a bit of a predicament...
+Long story short, I need some help with something. 
+I'm looking for someone to "volunteer" for something... *Pass on that one.
+While you're around, I could use some help.
+
+{> dialog_requested_story}
+Sure!
+Only because you asked nicely.
+It's been a long time since I've spoken of this. *Go on.
+| They ominously clear their throat. 
+Are you sure you want to hear it? This story is not for the faint of heart. *I am ready.
+
+{> dialog_security}
+! Halt!
+! Hello. 
+! Howdy.
+! Someone called?
+! You're under arrest. Don't resist!
+! You're messing with the wrong people...
+! Thought you were so clever, didn't ya...
+! By order of {person}, stop right there!
+! You're coming with us...
+! Don't try any tricks, now...
+! Now, what do we have here...
+! Well, well, well...
+! Not so fast...
+! You'd better explain yourself before we use the {item_common} on you.
+
+{> dialog_topic_unknown}
+I have no idea what you're talking about. *Fair enough. 
+The what? *Never mind.
+Who? *Never mind.
+Oh, it's a rare skin condition brought by the {star} merchants. *I think that's different...
+I've heard of that. Isn't it, like, a sport or something? *Possibly? *I doubt it.
+Hey! That's the name of my space sword, before it broke. *:react_joke Well, that sounds...pointless. *Resist pun opportunity
+That sounds familiar. I think it was the name of someone's pet. *Thanks. *Hmm.
+
+{> dialog_unknown}
+| You step closer. *Who are you?
+
+{> dialog_wtf}
+I'm not exactly sure what you mean... *Me neither.
+Alrighty then. 
+Let's just leave it at that. *Yeah.
+| You both wait in awkward silence. *Catch you later.
+
+{> dialog_weapon_filter}
+call_security
+nervous_assassin
+react_angry
+recharge
+
+{> dialog_next_map}
+confronted : confession
+
+advice : advice_thank
+
+dungeon : ask_leave
+dungeon : greeting
+dungeon : busy
+dungeon : nervous_assassin
+dungeon : offer_weapon
+
+{> dungeon_noun}
+Dungeon
+Containment Zone
+Caves
+Caverns
+Pits
+Tunnels
+Catacombs
+Pyramids
+Crevice
+Chasm
+Sewers
+Sinkhole
+Mines
+Burrow
+
+{> dungeon_path_adj}
+{item_adj_common}
+{item_adj_rare}
+Hidden
+Inconspicuous
+Subtle
+Barely Visible
+Dust-Covered
+Reinforced
+Rotting
+Broken
+Crumbling
+Camoflaged
+Spiked
+Embedded
+Inset
+
+{> dungeon_path_noun}
+Trapdoor
+Lever
+Switch
+Latch
+Handle
+Manhole
+Hole
+Burrow
+Compartment
+Rubble
+Access Hatch
+Passageway
+Tunnel
+Pipeworks
+Mechanism
+Machinery
+Staircase
+Door
+Gate
+Steps
+Vent
+Ladder
+Pitfall
+
+{> dungeon_path_special}
+Dark Tunnel
+Precarious Ravine
+
+{> dungeon_path}
+# Disabled for now: {dungeon_path_special}
+{dungeon_path_noun}
+{dungeon_path_adj} {dungeon_path_noun}
+
+{> dungeon_story_room}
+Wall of the {item}
+Wall of the {landmark_noun}
+Memoir of {settlement}
+{person}'s Tomb
+{item_knowledge}
+
+{> dungeon}
+The {dungeon_noun} of {settlement}
+{settlement} {dungeon_noun}
+{dungeon_noun} near {estate_common}
+
+{> overview_dungeon}
+You glance around.
+
+{> room_noun}
+Room
+Opening
+Junction
+Intersection
+Hallway
+Chamber
+Enclave
+Stairwell
+Doorway
+Wall
+Gate
+
+{> room}
+Curious {room_noun} : You find yourself in a large open room filled with unfamiliar objects.
+Abandoned {room_noun} : You come across what appears to be an abandoned hideout. 
+Tidy {room_noun} : Something seems eerily tidy about this room. Someone must have been here recently. 
+Sketchy {room_noun} : It sounds as though someone or something else might be nearby. 
+Humming {room_noun} : You hear a loud humming noise emanating from somewhere below you. 
+Smelly {room_noun} : This room has a very strong smell with no obvious source. 
+Creaky {room_noun} : You hear creaking from somewhere in the walls. 
+Echoing {room_noun} : The room echoes with your every step. 
+Misty {room_noun} : You can barely see through the thick mist in this room. 
+Dark {room_noun} : Even with a light source, you can barely see anything at all. 
+Whispering {room_noun} : You hear echoing whispers, moving ever closer as you stand to listen. 
+Empty {room_noun} : You find yourself in a completely empty room.
+
+{> modifier_faction}
+Infrastructure Expansion : 3
+R&D Breakthrough : 3
+Institutional Accumulation : 2
+Technology Upgrades : 2
+Regulation Changes : 2
+Uncontested Election : 2
+Emergency Funding : 2
+Interest Rates : 1
+Foreign Investments : 1
+Government Projects : 1
+Deregulation : 1
+{item_common} Legalization : 1
+Inflation Rate : 1
+Export Diversification : .5
+Economic Outsourcing : .5
+Complacency : .5
+Foreign Credit : .5
+Debt Repayment : .5
+Investigations : .5
+Immigration : .5
+Foreign Aid : .1
+
+Market Crash : -5
+Recession : -4
+Inflation Rate : -2
+Trade War : -2
+Economic Stagnation : -2
+Disastrous Election : -2
+Government Scandal : -1
+Interest Rates : -1
+Foreign Investments : -1
+Isolationist Policies : -1
+Public Outrage : -1
+Government Intervention : -1
+Regulation Changes : -1
+Natural Disasters : -1
+Investigations : -.5
+Complacency : -.5
+Import Tariffs : -.5
+Debt Accumulation : -.5
+Immigration : -.5
+Emigration : -.5
+Sudden Climate Change : -.3
+Pollution : -.2
+Debt Repayment : -.2
+
+Military Spending : 0
+
+{> species_prefix}
+Plump
+Borg
+Cran
+Scrub
+Grum
+Blob
+Humph
+Bart
+Hob
+Gro
+Bir
+Lamp
+Kli
+Spo
+Osp
+Quoth
+Stub
+Kro
+
+{> species_suffix}
+{planet_suffix}
+{lastname_suffix}
+idae
+ling
+tus
+ite
+um
+on
+ion
+rey
+dle
+der
+dy
+ly
+y
+i
+o
+us
+neck
+ing
+ska
+kin
+ler
+nus
+
+{> species}
+{species_prefix}{species_suffix}
+
+{> estate_common}
+{planet} {estate_noun}
+{person}'s {estate_noun}
+{item_adj_common} {estate_noun}
+{item_adj_common} {estate_noun}
+{item_adj_mission} {estate_noun}
+
+{> estate_noun}
+{landmark_noun}
+Estate
+House
+Mansion
+Flat
+Place
+Point
+Square
+Plaza
+Hotel
+Apartments
+Reservoir
+Mine
+Farm
+Ranch
+Castle
+Palace
+Barrow
+Spa
+Factory
+Skyscraper
+Restaurant
+{item_noun} Shop
+{item_noun} Store
+Supermarket
+Guild
+Garden
+Greenhouse
+
+{> estate_rare}
+{planet} {estate_noun}
+{person}'s {estate_noun}
+{item_adj_rare} {estate_noun}
+{item_adj_rare} {estate_noun}
+
+{> estate}
+{estate_common}
+{estate_rare}
+
+{> landmark_noun}
+River
+Rock
+Lake
+Creek
+Ridge
+Mountain
+Bluff
+Plateau
+Valley
+Hills
+Fields
+Cove
+Cave
+Enclave
+Grove
+Woods
+Forest
+
+{> faction}
+Pilgrims of {star}
+{star} Voyagers
+{star} Crusaders
+{star} Occupation
+{settlement} Occupation
+{star} Empire
+{settlement} Empire
+{settlement}
+
+{> crafting_module_map}
+Structural Beam : Scrap Metal
+
+Battery : Scrap Metal
+Battery : Machinery
+Battery : Capacitor
+Battery : Wires
+
+Engine : Scrap Metal
+Engine : Machinery
+Engine : Pipes
+Engine : Motor
+
+Autopilot Computer : Computer Parts
+Autopilot Computer : Circuit Board
+Autopilot Computer : Wires
+Autopilot Computer : Gyroscope
+
+{> description_item_artifact}
+This * once belonged to the people of {settlement}.
+
+{> description_item_common}
+We got this * for free at an auction because literally nobody else wanted it. 
+It ain't the {item}, but it'll do.
+{item_adj_common}, {item_adj_common}, and most importantly, {item_adj_common}. 
+We have absolutely no idea where this came from. It just appeared in our shop one day. 
+It's similar to that {item_common} that {action_past_bad}. 
+Only the bravest among us can get more than one use out of this. 
+You don't want to know where this * has been...
+We're selling this at a discount for many, many reasons. 
+This is most likely the worst * in existence. 
+Sometimes, if you listen closely, you can hear it shouting insults at you. 
+Be careful with this one. 
+Watch your fingers. 
+(It's very obviously broken)
+Probably your only chance to own a *.
+It's actually a repurposed {item_noun} {item_modifier}. 
+We can't seem to get rid of this thing. 
+Why wouldn't you want this *?
+Yes, we realize it's a *, but by the same token it's a *!
+I bet you could get a good deal for this somewhere...eventually...
+We bought this from the sketchlords at {estate_common}. Instant regret. 
+A previous space traveler unloaded this one on us. 
+Turns out this isn't nearly as useful as you'd expect it to be. Take that as you will. 
+All we can say is, it's a {item_adj_common} {item_adj_common} *!
+You'll never need a * again after this one.
+
+{> description_item_rare}
+{description_item_common}
+You'll be hard-pressed to find a better *.
+Probably the only * in this entire star system. Hence the price. 
+We made this ourselves!
+Guaranteed to work at least once! 
+{person} sold us this one. 
+Legend has it that {person} {action_past_bad} using this very *. 
+You look like the kind of person who wants this *.
+Fresh from {city}!
+You can think of it as the modern successor of the {item_common}. 
+If you turn it upside down, it's suddenly a full-featured {item_rare}.
+Also known as the {item} in some circles. 
+We have absolutely no idea why people keep buying this. 
+{boss} used to own this before...you know...
+This * made the news!
+It's autographed by {person}.
+
+{> item_adj_common}
+Crusty
+Broken
+Off-Brand
+Sketchy
+Futuristic
+Thrifty
+Lumpy
+Space
+Alien
+Factory
+Grumpy
+Funky
+Furry
+Scruffy
+Single-Use
+Flappy
+Used
+Useless
+Lightly Used
+Backfiring
+Moist
+Overengineered
+Suspicious
+Curly
+Scraggly
+Three-Pronged
+Spiked
+Slippery
+Unlucky
+Toxic
+Secondhand
+Thirdhand
+Pokey
+Sticky
+Unpleasant
+Overcooked
+Rat-Infested
+Barely Usable
+Creaky
+Squeaky
+Janky
+Wispy
+Stringy
+Disassembled
+Bent
+Bendy
+Hazardous
+Deformed
+Crude
+Rough-Edged
+Miniature
+Foreign
+Knockoff
+Unfashionable
+Old-Fashioned
+Dusty
+Crinkly
+Crotchety
+Crooked
+Dangly
+Wobbly
+Wiggly
+Bad
+Stinky
+Strong-Smelling
+Crumpled
+Crumbling
+Mummified
+Charred
+Shrunken
+Drab
+Loud
+Back-Alley
+Rusty
+Lopsided
+Unwieldy
+Jagged
+Half-Eaten
+Splintery
+Redneck
+Spare
+Redundant
+Damaged
+Fragile
+Squishy
+Refurbished
+
+{> item_adj_mission}
+Curious
+Mysterious
+Special
+Physics-Defying
+Antimatter
+Dark Matter
+Tachyonic
+Humming
+Pulsing
+Entrancing
+Hypnotic
+Mesmerizing
+Unusual
+Uncanny
+Levitating
+Sentient
+Whispering
+Talkative
+Overemotional
+Lonely
+Posessed
+Timid
+Loud
+Sassy
+Helpful
+Polite
+Sleazy
+Vengeful
+Heckling
+Yodeling
+Scat-Singing
+Swooning
+Inebriated
+Grumpy
+Woke
+Conspiring
+Observant
+Smart-Mouthed
+Blustering
+Scuttling
+Back-talking
+
+{> item_adj_rare}
+{color}
+Glistening
+Gilded
+Glossy
+Gleaming
+Brand New
+Sparkling
+State-of-the-Art
+High-End
+Exquisite
+Flamboyant
+Glowing
+Modern
+Dual-Purpose
+Elegant
+Handsome
+Feminine
+Masculine
+Wise
+Strong
+ASMR
+Unique
+Suggestive
+12-Dimensional
+Symmetric
+Sleek
+Celestial
+Ergonomic
+Lucky
+Regenerating
+Fuzzy
+Overpriced
+Aesthetic
+Fancy
+Crisp
+Aftermarket
+Plush
+All-Knowing
+Quantum
+Hyperbolic
+Fractal
+Composite
+Aerodynamic
+Advanced
+Mechanized
+Trusty
+Reliable
+Exotic
+Abstract
+Ancient
+Celebrity
+Early-Access
+Prototype
+Authentic
+Special
+Fashionable
+Classy
+Trendy
+Colorful
+Beautiful
+Pleasant
+Nice-Smelling
+Extra-Large
+Weaponized
+Military-Grade
+Militarized
+Tactical
+Regal
+Kingly
+Queenly
+Knightly
+Air-Conditioned
+Bona Fide
+Certified
+Regulation
+Sacred
+Blessed
+Cursed
+
+{> item_artifact}
+{item_adj_common} {item_noun_artifact} : {description_item_artifact}
+{item_adj_rare} {item_noun_artifact} : {description_item_artifact}
+
+{> item_category}
+# <name substring> : <category>
+
+AI : High Tech
+Robot : High Tech
+Graphics Card : High Tech
+CPU : High Tech
+Gadget : High Tech
+Circuit : High Tech
+Machine : High Tech
+Phone : High Tech
+
+Ancient : Artifact
+Relic : Artifact
+
+Weapon : Weapon
+Military : Weapon
+Militarized : Weapon
+Shank : Weapon
+Meathook : Weapon
+Bonesaw : Weapon
+Hacksaw : Weapon
+Razor : Weapon
+Toothpick : Weapon
+Spoon : Weapon
+
+Radioactive : Nuclear
+Uranium : Nuclear
+Plutonium : Nuclear
+Glowing : Nuclear
+
+Bonds : Financial
+
+{> item_clothing_common}
+{item_noun_clothing}
+{item_adj_common} {item_noun_clothing}
+
+{> item_clothing_rare}
+{item_adj_rare} {item_noun_clothing}
+{person}'s {item_noun_clothing}
+
+{> item_coin}
+{item_coin} Cash
+Lite{item_coin}
+Dark{item_coin}
+{color}Coin
+{item_adj_common}Coin
+{item_adj_rare}Coin
+{item_modifier}Coin
+{boss_noun}Coin
+{boss_modifier}Coin
+{firstname}Coin
+{lastname}Coin
+{planet}Coin
+{person_noun}Coin
+{mission_noun}Coin
+Coin{impersonal_name} Credit
+Crypto{boss_noun} Coin
+Crypto{boss_modifier} Coin
+{item_adj_common} Token
+{item_adj_common} Credit
+{boss_noun} Credit
+{boss_modifier} Credit
+{item_adj_common}{letter}
+{item_adj_rare}{letter}{letter}
+{item_common} Token
+{item_common} Credit
+
+{> item_common}
+{item_noun}
+{item_noun} {item_modifier}
+{item_adj_common} {item_noun}
+{item_adj_common} {item_noun} {item_modifier}
+
+{> item_dialog}
+# Format: <name> <start_dialog>::<next_dialog> <response>
+# Alternative: <name> <start_dialog> : <response>
+
+Worm-o Spray Can advice::react_worm Hit 'em with some Worm-o.
+Worm-o Spray Can advice::react_worm Try using my Worm-o.
+Worm-o Spray Can advice::react_worm You could try the Worm-o.
+Worm-o Spray Can advice::react_worm Use the Worm-o.
+Worm-o Spray Can advice::react_worm How about using a bit of Worm-o?
+Worm-o Spray Can advice::react_worm One word: Worm-o.
+Worm-o Spray Can advice::react_worm If it's fixable, it's fixable with Worm-o!
+Worm-o Spray Can busy::react_angry Spray with Worm-o
+Worm-o Spray Can react_joke::react_angry Spray with Worm-o
+Worm-o Spray Can security::^react_worm Spray with Worm-o
+
+{> item_junk}
+{item_adj_common} {item_noun_junk}
+
+{> item_knowledge_noun}
+{story_noun}
+Tome
+Rune
+Scroll
+Book
+
+{> item_knowledge}
+{item_adj_common} {story_noun}
+{item_adj_common} {item_knowledge_noun}
+
+{> item_legendary}
+{item_rare} of {planet}
+{item_rare} of {person}
+{item_rare} from {star}
+
+{> item_mission}
+Assorted Map Pieces
+Coordinate Chip
+Handwritten Coordinates
+Handwritten Instructions
+Decryption Key
+{item_adj_common} {item_noun_mission}
+{item_adj_rare} {item_noun_mission}
+{item_noun_mission}
+{item_adj_mission} {item_noun_mission}
+{item_adj_mission} {item_noun}
+
+{> item_modifier}
+{boss_modifier}
+Attachment
+Component
+Tenderizer
+Lasso
+Accessory
+Pulverizer
+Whisperer
+Detector
+Translator
+Transmogrifier
+Box
+Cage
+Pouch
+Simulator
+Juju
+Butterer
+Remains
+Poison
+Moistener
+Tickler
+Exciter
+Holder
+Amplifier
+Curler
+Fastener
+Lubricant
+Detergent
+Repellent
+Fabricator
+Swiper
+Assembler
+Disassembler
+Compressor
+Dissector
+Dispenser
+Condenser
+Statue
+Rotator
+Squeezer
+Slosher
+Scaler
+Swaddler
+Mixer
+Shuffler
+Replica
+Piece
+Chunk
+in a Bottle
+Instruction Manual
+Tightener
+Tripod
+Insurance
+Warranty
+Box
+Packaging
+Swaddler
+Nibbler
+Bisector
+Wielder
+Launcher
+Detonator
+Insulator
+Excavator
+Charger
+
+{> item_noun_artifact}
+Vase
+Pottery
+Beads
+Tablet
+Carving
+Engraving
+Sculpture
+Statue
+Fossil
+Skull
+Skeleton
+Arrowtip
+Machine
+Mechanism
+Vial
+Wrappings
+Fidgeter
+Scroll
+Tome
+Rune
+Sphere
+Cube
+Disc
+Toroid
+Simplex
+Headstone
+Symbol
+Amulet
+Ring
+Daidem
+Crown
+Pearl
+Gemstone
+
+{> item_noun_clothing}
+Wig
+Powdered Wig
+Hat
+Feather Hat
+Beanie
+Cloak
+Plate Armor
+Monocle
+Fake Moustache
+Gown
+Hoodie
+Suit
+Parka
+Jacket
+Skin Suit
+Towel
+Toga
+Wrappings
+Shell
+Bracelet
+Headband
+Armband
+Tiara
+Helmet
+
+{> item_noun_junk}
+Scrap Metal
+Computer Parts
+Circuit Board
+Machinery
+Capacitor
+Pipes
+Wires
+Motor
+Gyroscope
+
+{> item_noun_mission}
+Map
+Files
+Encrypted Drive
+Tablet
+Coordinate Chip
+Compass
+Book
+Diary
+Journal
+Radio
+Instructions
+Leaflet
+
+{> item_noun}
+Toothpick
+Meathook
+Spoon
+Bread
+Hardtack
+Egg
+Birdfeeder
+Bird
+Hacksaw
+Snack
+Demon
+Metal
+Crate
+Gadget
+Furniture
+Rock
+Mini-Volcano
+Fruit
+Juice
+Potato
+Kitten
+Laser
+Rocket
+Spider
+Bear
+Cell Phone
+Shoe
+Cat
+Piston
+Circuit Board
+Map
+Mint
+Jacket
+Screen
+Machine
+Button
+Lever
+Sensor
+Finger
+Sock
+Cardboard Box
+Duffel Bag
+Pylon
+Pedestal
+AI
+Robot
+Razor
+Graphics Card
+CPU
+Motherboard
+N-Body Simulation
+Relic
+Tooth
+Whisker
+Bonesaw
+Tweezer
+Tesseract
+Hypersphere
+Polytope
+Jumper Cable
+Wheel
+Spring
+Glove
+Mitten
+Fur
+Rubber
+Concrete
+Food
+Chair
+Shank
+Boomwhacker
+Pipe
+Bucket
+Puppet
+
+{> item_rare}
+{item_adj_rare} {item_noun}
+{item_adj_rare} {item_noun} {item_modifier}
+
+{> item_story}
+Story: {item_adj_common} {item_knowledge_noun}
+Story: {item_adj_rare} {item_knowledge_noun}
+Story: The {item_adj_mission} {item_knowledge_noun}
+Story: {person}'s {item_knowledge_noun}
+
+{> item_weapon_map}
+Bread Knife : Stab with *
+Kitchen Spoon : Bludgeon with *
+Garden Hose : Drown with *
+Razor Wire : Strangle with *
+Broadsword : Cleave with *
+Scimitar : Slice with *
+Pitchfork : Shank with *
+Rake : Clobber with *
+Plastic Brick : Induce terminal * foot injury
+Woodchipper : Eviscerate with *
+Spike : Impale with *
+Spear : Impale with *
+Mace : Maul with *
+Club : Whack with *
+Shank : Stab with *
+Paddle : Spank to death using *
+Worm-o Concentrate : Dissolve with *
+Hatchet : Chop with *
+Chainsaw : Dismember with *
+Firecracker : Detonate *
+Mini Laser : Evaporate with *
+Gilloutine : Execute with *
+Mystery Shank : Shank using *
+Mystery Shank : Invoke the wrath of {boss} using *
+Mystery Shank : Summon murder witch using *
+Mystery Shank : Implode skull using *
+Mystery Shank : Curse using *
+Mystery Shank : Impart lethal diarrhea using *
+Mystery Shank : Stab, reincarnate, and stab again using *
+Mystery Shank : Banish using *
+Mystery Shank : Crush into black hole using *
+Mystery Shank : Induce lethal G-force using *
+Mystery Shank : Dehydrate into a shriveled prune using *
+Mystery Shank : Evaporate using *
+Mystery Shank : Airblast using *
+
+{> item}
+{item_common}
+{item_common}
+{item_common}
+{item_rare}
+{item_rare}
+{item_legendary}
+{ore_common}
+{ore_rare}
+{item_clothing_common}
+{item_clothing_rare}
+{item_coin}
+{item_mission}
+
+{> ore_common}
+Iron Ore : Iron Ingots
+Aluminum Ore : Aluminum Foil
+Coal Ore
+Bismuth
+Granite
+Silt
+Sandstone
+Copper Ore : Copper Ingots
+Obscure Gemstones
+Imperfect Gemstones
+Odd Crystals
+Shiny Rocks : Very Shiny Rocks
+Salt
+Quartz
+Silicon : Circuitry
+
+{> ore_rare}
+Silver Ore : Silver Ingots
+Gold Ore : Gold Ingots
+Unique Gemstones
+Perfect Gemstones
+Small Diamond
+Marble Slabs
+Glowing Rocks : Refined Plutonium
+
+{> amount_adverb}
+fairly
+rather
+quite
+very
+definitely
+somewhat
+slightly
+a bit
+kind of
+sort of
+more or less
+highly
+obscenely
+hilariously
+
+{> combat_adverb}
+violently
+brutally
+instinctively
+timidly
+quickly
+skillfully
+angrily
+gleefully
+grumpily
+
+{> famous_adj}
+famous
+renowned
+highly regarded
+influential
+popular
+well-known
+celebrated
+revered
+
+{> impersonal_name_angry}
+punk
+bud
+dude
+lad
+peasant
+scrub
+
+{> weapon_bludgeon_verb_past}
+crumpled
+slammed
+clobbered
+mauled
+yeeted
+
+{> weapon_bludgeon}
+log
+club
+metal pipe
+crowbar
+mace
+hammer
+lumber axe
+battleaxe
+broadsword
+claymore
+
+{> weapon_stab_verb_past}
+stabbed
+shanked
+skewered
+impaled
+gutted
+
+{> weapon_stab}
+sword
+spear
+pike
+javelin
+glaive
+rapier
+longsword
+dagger
+knife
+butterfly knife
+spike
+pitchfork
+trident
+bayonet
+ballista
+tactical crossbow
+sharpened twig
+
+{> action_past_bad}
+ate the {item}
+murdered {person}
+held everyone hostage at {settlement}
+executed {person}
+stepped on my {item}
+stole military secrets from {faction}
+burnt down {settlement}
+took bribes from {hideout}
+{weapon_stab_verb_past} {person} with a {weapon_stab}
+{weapon_bludgeon_verb_past} {person} with a {weapon_bludgeon}
+vandalized {estate}
+betrayed {person}
+
+{> mission_noun}
+Journey
+Task
+Job
+Errand
+Voyage
+Endeavor
+Adventure
+Mission
+One
+Chore
+Investigation
+Expedition
+Venture
+Awakening
+Effort
+Request
+Assumption
+Idea
+Pathway
+Disaster
+Daydream
+Destiny
+Frontier
+Perspective
+Visit
+Motive
+Opportunity
+Arrangement
+Predicament
+Deal
+Foray
+Infiltration
+
+{> mission}
+Grocery Shopping
+Hit and Run
+A Dubious {mission_noun}
+A Fool's {mission_noun}
+A Questionable {mission_noun}
+A Legendary {mission_noun}
+A Valiant {mission_noun}
+A Swift {mission_noun}
+A Treacherous {mission_noun}
+An Inspiring {mission_noun}
+An Inconspicuous {mission_noun}
+An Uncertain {mission_noun}
+An Ominous {mission_noun}
+An Unexpected {mission_noun}
+An Unassuming {mission_noun}
+An Unprecedented {mission_noun}
+A Procrastinated {mission_noun}
+A Worthwile {mission_noun}
+A Foretold {mission_noun}
+A New {mission_noun}
+A Hypothetical {mission_noun}
+A Shady {mission_noun}
+A Better {mission_noun}
+A Real {mission_noun}
+A True {mission_noun}
+An Odd {mission_noun}
+A Perfectly Normal {mission_noun}
+An Undeniable {mission_noun}
+The Latest {mission_noun}
+The Next {mission_noun}
+Another {mission_noun}
+The {mission_noun}
+At least it's not {planet}
+By Command of {person}
+An Act Worthy of {person}
+{mission_noun} on the Side
+{mission_noun} for the Ages
+Operation {item_noun}
+Operation {estate_noun}
+The {estate_noun} {mission_noun}
+
+{> task_planet}
+Record Climate Conditions
+Sample Microbial Life
+Observe the Natives
+Scan for Space Worms
+Document Rock Formations
+Collect Soil Sample
+
+{> task_sabotage}
+Release Biological Agent
+Damage Power Grid
+Plant War Crime Evidence
+Spread Rumors
+Distribute Propaganda
+
+{> task_settlement}
+{task_planet}
+Browse Public Archives
+Promote {item_common}
+Promote {item_rare}
+Research {item_legendary}
+Research {star}
+
+{> topic}
+Space Worms : They are a common nuisance in our galaxy.
+{star} : It's a distant star system known for its eccentric leader, {person} {person_title}.
+{star} : After a great war, inhabitants of this star system fled to escape persecution. 
+{planet} : That planet used to be part of this star system before it collided with {planet}.
+{city} : It was the the original city on the planet {planet}. 
+{city} : A long time ago, {faction} built this city in secret, for unknown reasons. 
+{town} : It's the original name for {city} before it was burned down and replaced by a dictatorship. 
+{person} {person_title} : That is one of the many pseudonyms of {person} {person_title}.
+
+{> boss_modifier}
+{item_modifier}
+Flayer
+Whipper
+Pusher
+Crusher
+Devastator
+Mincer
+Mangler
+Slicer
+Puncher
+Miner
+Harvester
+Destroyer
+Hunter
+Gatherer
+Wrinkler
+Breaker
+Razer
+Defiler
+Jostler
+Purifier
+Strangler
+Crafter
+Grafter
+Grappler
+Crawler
+Scuttler
+Torcher
+Sapper
+Biter
+Eater
+Smasher
+Masher
+Sipper
+Wrestler
+Blatherer
+Farmer
+Grazer
+Butterer
+Picker
+Stabber
+Rumbler
+Shaker
+Catcher
+Clasper
+Hopper
+Dancer
+Shearer
+Wrangler
+Robber
+Troller
+Tromper
+Trampler
+Weaver
+Darkener
+Avenger
+Eviscerator
+Banisher
+Exterminator
+Former
+Brandisher
+Brander
+Mentor
+Wielder
+Tosser
+Hurler
+Catcher
+Yanker
+Widower
+Divider
+Exfoliator
+Slammer
+Suppressor
+Ender
+Builder
+Father
+Mother
+Punisher
+Whistler
+Scoffer
+Shingler
+Snatcher
+Tugger
+Tangler
+Listener
+Whisperer
+Whistler
+Hoarder
+Blisterer
+Inflicter
+Rampager
+Stomper
+Grubber
+Teller
+Yeller
+Shouter
+Slasher
+Wafter
+Sniffer
+Vanquisher
+Nibbler
+Flogger
+Flanker
+Sneaker
+Scaler
+Butcherer
+Poisoner
+Yapper
+Tearer
+Crumbler
+Bearer
+Warder
+Crosser
+Burgler
+Scrambler
+Belter
+Strider
+Pincher
+Grumbler
+Throttler
+Scamperer
+Filler
+Harrower
+Summoner
+Slayer
+Scatterer
+Slinger
+Tender
+Tenderizer
+Snagger
+Poacher
+Yodeler
+Gardener
+Master
+Conquerer
+Splinterer
+Waver
+Tatterer
+Dweller
+Trundler
+Bouncer
+Buffeter
+Tumbler
+Stumbler
+Stinger
+Sticker
+Ranger
+Scavenger
+Boiler
+Basher
+Mixer
+Bellower
+Pelter
+Welder
+Cracker
+Bleater
+Bleacher
+Bungler
+Bouncer
+Stiller
+Crosser
+Spinner
+Juggler
+Tetherer
+Scalper
+Dissector
+Seeker
+Twister
+Tweaker
+Slapper
+Squeezer
+Hugger
+
+{> boss_noun}
+{item_noun}
+Pig
+Sheep
+Cow
+Slime
+Bear
+Wolf
+Cat
+Lynx
+Rat
+Raptor
+Eagle
+Hawk
+Dove
+Crow
+Spider
+Orangutan
+Ghost
+Soul
+Spirit
+Monster
+Knight
+Lord
+Duke
+King
+Peasant
+Tramp
+Bandit
+Caravan
+Tailor
+Blacksmith
+Hunter
+World
+Star
+Cloud
+Earth
+Land
+Sea
+Ocean
+Lake
+Bog
+Swamp
+River
+Pond
+Lily
+Wave
+Weed
+Grass
+Shrub
+Bone
+Claw
+Tooth
+Femur
+Skull
+Boneclaw
+Leather
+Stone
+Rock
+House
+Barrel
+Gold
+Silver
+Copper
+Bronze
+Dwarf
+Giant
+Man
+Skeleton
+Zombie
+Ghoul
+Wind
+Gust
+Fathom
+Sorrow
+Terror
+Death
+Life
+Fear
+Shame
+Destiny
+Fate
+Bane
+Blood
+Fire
+Milk
+Juice
+Butter
+Blossom
+Sprig
+Oak
+Pine
+Spruce
+Edge
+Blade
+Sword
+Axe
+Club
+Mace
+Flail
+Scythe
+Musket
+Graff
+Coal
+Steel
+Carbon
+Diamond
+Ruby
+Emerald
+Jade
+Sapphire
+Dust
+Shard
+Nil
+Shadow
+Darkness
+Pain
+Dread
+Rage
+Shame
+Crowd
+Flatulence
+Cascade
+Flesh
+Shine
+Knuckle
+Soldier
+Guard
+Fairy
+Dragon
+Ghast
+Grave
+Tomb
+Ice
+Fire
+Blaze
+Famine
+Basket
+Mentor
+Tree
+Foliage
+Branch
+Twig
+Bread
+Carrot
+Potato
+Villager
+Motion
+Vantage
+Silence
+Stew
+Lion
+Tiger
+Wither
+Age
+Time
+Shingle
+Door
+Window
+Wist
+Glister
+Sheen
+Shine
+Brightness
+Light
+Space
+Void
+Sky
+Clown
+Blister
+Spear
+Spike
+Stem
+Rampage
+Champion
+Grub
+Dungeon
+Cage
+Tale
+Story
+Tail
+Beak
+Scale
+Sloth
+Tower
+Wall
+Arch
+Sign
+Grate
+Port
+Dock
+Ship
+Galley
+Galleon
+Sloop
+Steam
+Odor
+Wisp
+Flange
+Gnome
+Garden
+Flower
+Daisy
+Rose
+Empire
+Froth
+Foam
+Pirate
+Brigand
+Conqueror
+Gremlin
+Goblin
+Kerbal
+Snake
+Salamander
+Lizard
+Tortoise
+Leopard
+Army
+Legion
+Phalanx
+Salt
+Pepper
+Sugar
+Salad
+Grape
+Egg
+Butter
+Turban
+Traitor
+Prisoner
+Prison
+Keep
+Fort
+Fortress
+Castle
+Battlement
+Fence
+Picket
+Wicket
+Thorn
+Well
+Bucket
+Tundra
+Taiga
+Forest
+Desert
+Pile
+Bramble
+Garland
+Berry
+Radish
+Turnip
+Cloth
+Tear
+Shackle
+Chain
+Apprentice
+Fungus
+Mushroom
+Tunic
+Crumb
+Portal
+Doom
+Herald
+Belt
+Renegade
+Stride
+Pincer
+Fleck
+Golem
+Clockwork
+Plate
+Mountain
+Valley
+Cove
+Cave
+Cavern
+Bay
+Lichen
+Moss
+Storm
+Gale
+Tempest
+Broth
+Stew
+Parsley
+Pebble
+Nation
+Barley
+Beard
+Hermit
+Cabbage
+Tulip
+Wizard
+Mage
+Scribe
+Flag
+Banner
+Battle
+War
+Demon
+Nether
+Robe
+Gown
+Scent
+Reek
+Victory
+Defeat
+Line
+Hunger
+Bull
+Calf
+Thigh
+Chicken
+Heat
+Fur
+Horse
+Brass
+Hound
+Boar
+Silk
+Straw
+Tallow
+Field
+Day
+Night
+Dawn
+Dusk
+Noon
+Gloaming
+Throne
+Seat
+Chair
+Roof
+Path
+Road
+Bridge
+Tunnel
+Way
+Lane
+Thneed
+Thrill
+Worm
+Slug
+
+{> boss_title}
+{person_title}
+{boss_noun}-{boss_modifier}
+{item_noun}-{boss_modifier}
+the {boss_noun} {boss_modifier}
+
+{> boss}
+{person}
+{firstname_boss} {person_title}
+{firstname_boss} {boss_title}
+{firstname} {boss_title}
+{firstname} {lastname} {boss_title}
+{item_adj_common} {firstname_boss}
+{item_adj_common} {firstname_boss} {boss_title}
+The {item_adj_common} {boss_noun} {boss_modifier}
+
+{> firstname_boss}
+{firstname}
+
+{> firstname_prefix}
+{planet_prefix}
+{firstname_prefix}
+Ron
+He
+Ha
+Bjark
+Olo
+Scra
+Hu
+Jal
+Wig
+Wand
+Rad
+An
+Mer
+Na
+A
+O
+Yo
+Mat
+Wu
+Ka
+Sli
+Teu
+Az
+Gral
+Sau
+Brun
+Po
+Bro
+Wa
+Qui
+Cra
+
+{> firstname_suffix}
+{planet_suffix}
+dwig
+ster
+o
+a
+r
+th
+us
+is
+ats
+ens
+bert
+laf
+re
+mib
+kaat
+zeem
+feld
+li
+zo
+hy
+bron
+go
+ron
+swick
+tch
+tsch
+gre
+sh
+seph
+ski
+
+{> firstname}
+{firstname_prefix}{firstname_suffix}
+
+{> impersonal_name}
+Dude
+Guy
+Man
+Lady
+Boy
+Girl
+Gal
+Alien
+Kid
+
+{> lastname_mid}
+g
+s
+k
+d
+m
+
+{> lastname_suffix}
+son
+lad
+ington
+vens
+
+{> lastname}
+{firstname_prefix}{lastname_mid}{lastname_suffix}
+{firstname}{lastname_suffix}
+
+{> person_adj}
+{item_adj_common}
+{item_adj_rare}
+{item_adj_mission}
+Wise
+Astute
+Sharp
+Oblivious
+Confused
+Squeaky
+Sleepy
+Scarred
+Scary
+Wandering
+Vengeful
+Quiet
+Eloquent
+Robot
+Rogue
+Righteous
+Afraid
+Unsubtle
+Flamboyant
+Overconfident
+Chosen
+Three-Legged
+Four-Legged
+Five-Legged
+Eight-Legged
+Cephalopod
+Sauropod
+Ancient
+Elderly
+Spritely
+Time-Traveling
+Interstellar
+Gallant
+Glorious
+Amazing
+Beautiful
+Honorable
+Banished
+Summoned
+Masterful
+Intimidating
+Mediocre
+Wimpy
+Twiggy
+Attention-Seeking
+Disingenuous
+Furious
+Fiery
+Wind-Whispering
+Towering
+
+{> person_interest}
+Artifacts
+Storytelling
+Trolling
+Adventuring
+Cooking
+Sleeping
+Learning
+Reading
+Working
+Burning Things
+Conspiracy Theories
+
+{> person_noun}
+{impersonal_name}
+Baron
+Wanderer
+Traveler
+Ranger
+Voyager
+Knight
+King
+Queen
+Knight
+Priest
+Monk
+Artist
+Painter
+Explorer
+Adventurer
+Hunter
+Blacksmith
+Crusader
+Troublemaker
+Guardian
+Delegate
+Ambassador
+Watcher
+Doctor
+Warrior
+Conqueror
+Defender
+Dreamer
+Vagabond
+Vigilante
+Thief
+Gangster
+Accountant
+Engineer
+Swindler
+Guardian
+Protector
+Seeker
+Agent
+Inquisitor
+Scourge
+Stranger
+
+{> person_title_only}
+{boss_title}
+the {person_adj}
+the {person_noun}
+the {person_adj} {person_noun}
+the {item_noun} {impersonal_name}
+the {item_noun} {person_noun}
+the {person_noun} of {settlement}
+the {person_noun} of {star}
+from {planet_prefix}{planet_suffix}
+Strongman
+{item_noun}-{item_modifier}
+
+{> person_title}
+{lastname}
+{person_title_only}
+{lastname} {person_title_only}
+
+{> person}
+{firstname}
+{firstname} {lastname}
+{person_adj} {firstname}
+Lord {firstname}
+Sir {firstname}
+Big {firstname}
+Little {firstname}
+Mr. {firstname}
+Ms. {firstname}
+Dr. {firstname}
+The {firstname}
+Some {person_adj} {impersonal_name}
+{item_noun} {impersonal_name}
+{boss}
+
+{> pirate}
+{boss}
+{person}
+{firstname}
+
+{> personality_accent_map}
+i : a
+a : o
+e : u
+g : j
+w : y
+
+{> personality_append}
+And stuff.
+Or something. 
+I think.
+I guess.
+Yep.
+Yessiree.
+Kinda.
+Sorta.
+Maybe.
+Right?
+You see?
+Per se.
+According to {person}.
+Probably.
+Oddly enough.
+If I remember correctly.
+Amirite?
+(Chuckles)
+(Giggles)
+(Slow claps)
+(Breathes heavily)
+Mhmmm.
+Yummy.
+Eh?
+
+{> response_aesthetic}
+:wtf Do keep talking. ;)
+:wtf Oh, stop it! ;)
+:wtf You're too much. ;)
+:wtf (Giggle) ;)
+:wtf Oh, excuse you! ;)
+:wtf What's that supposed to mean? ;)
+:wtf You're so silly! ;)
+:wtf You're so in tune! ;)
+:wtf One hundred percent! ;)
+:wtf You sure about that? ;)
+:wtf Why the long words? ;)
+:wtf Yes? ;)
+:wtf Continue? ;)
+:wtf I'd sure like to know more. ;)
+:wtf Oh tell me more! ;)
+
+{> asteroid}
+{planet}
+
+{> black_hole}
+{star} Singularity
+
+{> gas_giant}
+{planet}
+
+{> moon}
+{planet}
+
+{> overview_city}
+A bustling city greets you on the surface.
+You land near a large coastal metropolis. 
+A twinkling cityscape emerges beneath the clouds. 
+The surface of this planet is empty, but a tiny landing pad leads to a spawling underground city.
+You landing in a congested city center after hours of waiting for a parking spot. 
+This planet's surface is one gigantic megaolpolis. 
+Due to the toxic atmosphere, this planet's main city is built underwater.
+You land among a large network of urban biodomes. 
+This planet's city lights can be seen from hundreds of kilometers away.
+
+{> overview_colony}
+You land among a burgeoning colonial hamlet. 
+You land at what appears to be a colony of a distant empire.
+It appears as though a colony was recently established here.
+
+{> overview_empty}
+The conditions here would be perfect for establishing a colony.
+You come across a recently abandoned colonial biodome.
+
+{> overview_fort}
+You land near what appears to be a fortified military stronghold. 
+You approach a network of camoflaged bunkers. 
+This planet seems to be under direct military control. 
+Armed security vessels follow you to the landing station. 
+Everyone here seems to be carrying weapons.
+
+{> overview_hideout}
+You immediately get a bad feeling about the nearby settlement. 
+As you land, you can tell this planet is not accustomed to visitors. 
+The way everyone stares at your spacecraft makes you nervous. 
+This town doesn't seem very happy about your arrival. 
+Dark, hooded figures disappear into the shadows as you land.
+
+{> overview_outpost}
+The surface is completely devoid of life except for a few overenthusiastic aliens. 
+You find a tiny outpost stationed on a high point overlooking the deserted countryside. 
+All life here resides in one enormous teepee-like building.
+
+{> overview_ruins}
+You find the crumbling remains of an abandoned civilization.
+
+{> overview_shipyard}
+You find yourself amidst a planetary-scale shipbuilding operation. 
+A ship intercepts you for an inspection before allowing you to land.
+Multiple city-sized assembly lines are visible from space. 
+You land next to an enormous vacuum chamber. 
+Upon landing, you hear the rumble of titanic spacecraft engines from deep below your ship. 
+You see a staggering variety of spacecraft landing and taking off around you.
+
+{> overview_town}
+You find a small hamlet near the planet's equator.
+Upon landing, you are greeted by a humble troupe of villagers. 
+You land amid vast swaths of alien farmland. 
+The inhabitants of this planet have extremely strong accents. 
+The locals marvel at your flying machine.
+After scanning the surface for hours, you finally find a village near an active volcano.
+Of the many inhabitants of this planet, only a few seem to notice you. 
+You find a small airship settlement hovering above the barren terrain below. 
+You land at what seems to be a small utopian township.
+
+{> overview_tribe}
+The natives on this planet start to worship you as you land. 
+You notice a few tribal aliens trying to throw spears at your ship. 
+This planet seems to be covered in tiny, primitive townships. 
+You are greeted by brightly-colored aliens wielding javelin-like projectiles. 
+You discover a reclusive tribal community hidden deep within a ravine. 
+You detect traces of life near the poles.
+
+{> planet_debris}
+Molten Debris Cloud
+
+{> planet_feature}
+Tidally Locked
+Unusual Tilt
+Glaciers
+Deserts
+Geysers
+Volcanoes
+Radiation
+Tunnels
+Caves
+Earthquakes
+Landslides
+Natural Arches
+Ravines
+Mountains
+Sheer Cliffs
+Salt Flats
+Plains
+Canyons
+Craters
+Plateaus
+Atmosphere
+Atmosphere, Toxic Air
+Atmosphere, Tornadoes
+Atmosphere, Hurricanes
+Atmosphere, Northern Lights
+Atmosphere, Dust Storms
+Oceanic
+Oceanic, Islands
+Oceanic, Tsunamis
+Space Worms
+Terraformation
+Strong Magnetic Field
+Fast Rotation
+
+{> planet_prefix}
+{firstname_prefix}
+Giga
+Atla
+Exo
+Zori
+Era
+Volta
+Dene
+Julu
+Poke
+Sala
+Huno
+Yeba
+Satu
+Plu
+Mercu
+Luki
+Pola
+Crato
+Tesse
+Strato
+Zil
+Syn
+Croi
+Jani
+Noctu
+Juno
+Dune
+Compu
+Frodo
+Har
+Scra
+Ho
+Gra
+Plin
+
+{> planet_suffix}
+{firstname_suffix}
+{lastname_suffix}
+dan
+san
+jor
+zed
+ranth
+ka
+th
+rn
+to
+krith
+n
+s
+sol
+deth
+rat
+kor
+k
+shyyyk
+tron
+don
+saur
+ris
+ract
+varius
+toid
+ska
+nar
+zam
+wag
+
+{> planet}
+{planet_prefix}{planet_suffix}
+
+{> ring_debris}
+{number}{number}{number}{number} {letter}
+{letter}{letter}-{number}{number}{number}{number}
+{letter}{letter} {number}{number}{number}-{letter}
+{number}{number}{number}-{letter}{number}{number}{number}{number}
+
+{> city}
+{settlement}
+{settlement} City
+{settlement} Spaceport
+New {settlement}
+Greater {settlement}
+{settlement}-{settlement}
+
+{> colony}
+{settlement}
+New {settlement}
+Baby {settlement}
+{tribe}
+
+{> empty}
+Forgotten {town_noun}
+Deserted {town_noun}
+Quiet {town_noun}
+{item_adj_common} {town_noun}
+Old {settlement}
+Ancient {settlement}
+
+{> fort_noun}
+Fort
+Base
+Fortress
+Fortification
+Encampment
+Compound
+Stronghold
+Hold
+Keep
+Citadel
+Bunker
+Castle
+Tower
+Project
+Checkpoint
+Wall
+Silo
+Prison
+Facility
+Site
+Area
+Zone
+Facility
+
+{> fort}
+{fort_noun} {greek}
+{greek} {fort_noun}
+{settlement} {fort_noun}
+{settlement} {fort_noun} {greek}
+{person} {fort_noun}
+{boss_noun}-{boss_modifier} {fort_noun}
+
+{> hideout_noun}
+Den
+Pit
+Burrow
+Ring
+Track
+Coven
+Cult
+Gang
+Hideout
+Camp
+Cartel
+Fringe
+Badlands
+Underworld
+Underground
+Foundation
+Clan
+Club
+Cradle
+
+{> hideout}
+{settlement} {hideout_noun}
+{firstname} {hideout_noun}
+{lastname} {hideout_noun}
+{tribe}
+
+{> outpost}
+{settlement}
+Checkpoint {settlement}
+{person}'s Refuge
+{person}'s Hideout
+{planet} Refugees
+{star} Emigrants
+{star} Embassy
+{tribe}
+
+{> settlement}
+{planet}
+{firstname}
+{lastname}
+
+{> shipyard}
+{settlement} Shipyard
+{settlement} Pier
+{settlement}
+
+{> town_noun_social}
+Pub
+Bar
+Inn
+Tavern
+Hotel
+Speakeasy
+Watering Hole
+
+{> town_noun}
+{landmark_noun}
+Barrow
+Hamlet
+Town
+Farm
+District
+Province
+Sector
+Territory
+Requisition
+Camp
+Tribe
+Enclave
+
+{> town_social}
+{item_common} {town_noun_social}
+{item_adj_common} {town_noun_social}
+{item_adj_rare} {town_noun_social}
+{settlement} {town_noun_social}
+{planet} {town_noun_social}
+
+{> town}
+{settlement}town
+{settlement}ville
+{settlement} {town_noun}
+Little {settlement}
+Lesser {settlement}
+
+{> tribe}
+{boss_modifier} {landmark_noun}
+
+{> star}
+{planet}
+{planet} Major
+{planet} Minor
+New {planet}
+
+{> shipwreck_noun}
+Shipwreck
+Hulk
+Ship Debris
+Ship Remains
+Escape Pod
+Lost Ship
+Destroyed Ship
+Abandoned Ship
+
+{> shipwreck}
+{shipwreck_noun}
+{faction} {shipwreck_noun}
+{person}'s {shipwreck_noun}
+{item_adj_common} {shipwreck_noun}
+{item_adj_rare} {shipwreck_noun}
+
+{> space_station}
+{settlement} Observatory
+{settlement} Station
+{settlement} Space Station
+{settlement} Logistics Station
+{settlement} Staging Center
+{settlement} Cupola
+
+{> part_adventure_start}
+While [main person] prepared for the expedition, [nemesis person] watched from the shadows. *nemesis_start
+
+{> part_battle_main_nemesis}
+An epic battle ensued, and [main person] emerged victorious. *end_main_happy
+[main person] turned around, but it was too late. [nemesis person] [main person_death]. *end_main_dead
+What happened next went down in history. [main person] [nemesis person_death]. *end_main_happy
+It's impossible to know for sure what happened next, but [nemesis person] was later seen with [main person]'s [main item]. *end_main_dead
+
+{> part_end_main_dead}
+And that was the end of [main person].
+[main person] will forever live on in our memories. 
+R.I.P [main person].
+
+{> part_end_main_happy}
+As you'd expect, [main person] lived happily ever after.
+[main person] lived on to become an interstellar celebrity.
+
+{> part_main_conflict}
+Enter [nemesis person]. *nemesis_start
+However, [main person] happened to be mortal enemies with [nemesis person]. *nemesis_start
+Unfortunately, [nemesis person] didn't like that [main person] [main person_status]. *nemesis_plan
+One day, [main person] decided to explore [setting planet]. *adventure_start
+"I'd sure like to go on an adventure," [main person] said to themselves one day. *adventure_start
+
+{> part_main_start}
+Once upon a time, there lived an alien known as [main person]. *main_status
+Our story begins with [main person]. *main_status
+On a planet named [main planet] lived [main person]. *main_status
+Here begins the story of [main person]. *main_status
+
+{> part_main_status}
+[main person] [main person_status]. *main_conflict
+
+{> part_nemesis_plan}
+[nemesis person] [nemesis created_weapon], and when [main person] walked past, struck them down with this cruel device. *end_main_dead
+One day, [nemesis person] decided to have a "chat" with [main person]. *battle_main_nemesis
+
+{> part_nemesis_react_main}
+So [nemesis person] hatched a daring plan to [nemesis intent_evil]. *nemesis_plan
+
+{> part_nemesis_start}
+[nemesis person] was a truly evil person. *nemesis_plan
+Truth be told, [nemesis person] wanted to [nemesis intent_evil]. *nemesis_plan
+
+{> story_dialog_map}
+Hey, I remember hearing about you! : Oh yes. I'm {amount_adverb} {famous_adj} in these parts. *:autograph Wow! Can I have an autograph? *Cool.
+Wait, I recognize your name... : Many stories have been written about my adventures. *:autograph Can I get your autograph? *:^flexed_upon Same.
+?[* item] Can I see your [* item]? : Sure! It's very dear to me, so don't break it. *Whoooa. *Cool.
+?[* created_weapon] Did you really [* created_weapon]? : Oh, that. I actually [*_correct created_weapon], but don't tell anyone. *Gotcha.
+?[* person_status] Aren't you that person who [* person_status]? : Yeah! *Cool.
+?[* intent_evil] I can't believe you wanted to [* intent_evil]. : Eh? What are you talking about? *:confession The story said so. *:ask_leave Hmm.
+?[* person_death] Wait. I thought you were killed! : Sadly, yes...but I lived! *Wow! *I'm a bit skeptical of that story now.
+
+{> story_end_filter}
+end_main_happy
+end_main_dead
+
+{> story_item_association}
+Book : main_start
+Scroll : main_start
+
+{> story_noun}
+{mission_noun}
+Story
+Tale
+Legend
+Fable
+Epic
+Lore
+Ballad
+Riddle
+Poem
+
+{> story_start_filter}
+main_start
+
+{> subject_created_weapon}
+tied a rope to a {weapon_bludgeon}
+drove a nail into to a wooden plank
+devised a spring-loaded {weapon_stab} trap
+built a remote-controlled {weapon_stab}
+jerry-rigged a motion-activated {weapon_stab}
+furnished a {weapon_stab}
+
+{> subject_intent_evil}
+destroy [main person] and everything they love
+teach [main person] a lesson
+break the will of [main person]
+assert dominance over [main person]
+annihilate [main person] once and for all
+spread chaos and terror across the known universe
+prove their worth
+gain some nortoriety
+
+{> subject_person_death}
+{combat_adverb} {weapon_stab_verb_past} [* person] with a {weapon_stab}
+{weapon_bludgeon_verb_past} [* person] with a {weapon_bludgeon}
+
+{> subject_person_status}
+was fascinated with a certain [* item]
+became friends with [*_friend person]
+ran a mining operation near [*_mining planet]
+dreamed of conquering [*_conquest faction]
+
+{> instrument}
+bell
+
+{> rhythm}
+.--. .--. ..-. .---
+.--- .--. .-.. .---
+..-- .... ..-- ..--
+
+{> color}
+Grey
+Black
+White
+Blue
+Green
+Brown
+Yellow
+Violet
+Indigo
+Orange
+Purple
+Pink
+Teal
+Tan
+Beige
+Baby-Blue
+Sky-Blue
+Navy-Blue
+Burgundy
+Cerulean
+Crimson
+Golden
+Silver
+Harlequin
+Lavender
+Lilac
+Maroon
+Scarlet
+Taupe
+Turquoise
+Viridian
+Ultramarine
+Periwinkle
+
+{> greek}
+Alpha
+Beta
+Gamma
+Delta
+Epsilon
+Zeta
+Eta
+Theta
+Iota
+Kappa
+Lambda
+Mu
+Nu
+Xi
+Omicron
+Pi
+Rho
+Sigma
+Tau
+Upsilon
+Phi
+Chi
+Psi
+Omega
+
+{> letter}
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+{> number}
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
