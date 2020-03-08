@@ -1,0 +1,17 @@
+{
+  "name": "wantwords",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node .",
+    "deploy": "gh-pages -d cache/dist"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "simple-git": "^1.131.0",
+    "glob": "^7.1.6",
+    "esm": "^3.2.25",
+    "gh-pages": "^2.2.0",
+    "rimraf": "^3.0.2"
+  }
+}
