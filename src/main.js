@@ -35,10 +35,14 @@ import gitPromise from 'simple-git/promise';
                 }
                 names.push(name);
 
-                let data = fs.readFileSync(file).toString('utf8');
-                return `{> ${name}}\n${data.trim()}`;
+                let data = fs.readFileSync(file).toString('utf8')
+                    .split('\n')
+                    .filter(s => s)
+                    .map(s => '  ' + s.trim())
+                    .join('\n');
+                return `{> ${name}}\n${data}`;
             });
-        add(namespace, `{> ${namespace}:}\n\n${parts.join('\n\n')}`);
+        add(namespace, parts.join('\n\n'));
     }
 
     function addFromSubdirectories(dir, getNamespace = s => s, fullNames = false) {
