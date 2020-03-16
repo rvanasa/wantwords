@@ -1,763 +1,762 @@
-{> imsky_adjectives:}
-
 {> age}
-advanced
-aged
-ancient
-antique
-archaic
-contemporary
-current
-frayed
-fresh
-grizzled
-hoary
-immature
-juvenile
-mature
-modern
-new
-novel
-obsolete
-old
-primordial
-ragged
-raw
-recent
-senile
-shabby
-stale
-tattered
-threadbare
-trite
-vintage
-worn
-young
+  advanced
+  aged
+  ancient
+  antique
+  archaic
+  contemporary
+  current
+  frayed
+  fresh
+  grizzled
+  hoary
+  immature
+  juvenile
+  mature
+  modern
+  new
+  novel
+  obsolete
+  old
+  primordial
+  ragged
+  raw
+  recent
+  senile
+  shabby
+  stale
+  tattered
+  threadbare
+  trite
+  vintage
+  worn
+  young
 
 {> algorithms}
-absolute
-abstract
-active
-acyclic
-adaptive
-amortized
-approximate
-ascent
-associative
-asymptotic
-augmenting
-average
-balanced
-best
-binary
-bipartite
-blocking
-boolean
-bounded
-brute force
-commutative
-complete
-concave
-concurrent
-connected
-constant
-counting
-covering
-cyclic
-decidable
-descent
-deterministic
-dichotomic
-dyadic
-dynamic
-exact
-exhaustive
-exponential
-extended
-external
-extremal
-factorial
-feasible
-finite
-fixed
-formal
-forward
-free
-greedy
-hidden
-inclusive
-internal
-intractable
-inverse
-inverted
-isomorphic
-linear
-local
-lower
-matching
-maximum
-mean
-median
-minimum
-mode
-naive
-nearest
-nondeterministic
-null
-nullary
-objective
-offline
-online
-optimal
-ordered
-oriented
-orthogonal
-oscillating
-parallel
-partial
-perfect
-persistent
-planar
-polynomial
-proper
-quadratic
-ragged
-random
-randomized
-rectilinear
-recursive
-reduced
-relaxed
-shortest
-simple
-sparse
-spatial
-square
-stable
-swarm
-symmetric
-terminal
-ternary
-threaded
-tractable
-unary
-undecidable
-undirected
-uniform
-universal
-unsolvable
-unsorted
-visible
-weighted
+  absolute
+  abstract
+  active
+  acyclic
+  adaptive
+  amortized
+  approximate
+  ascent
+  associative
+  asymptotic
+  augmenting
+  average
+  balanced
+  best
+  binary
+  bipartite
+  blocking
+  boolean
+  bounded
+  brute force
+  commutative
+  complete
+  concave
+  concurrent
+  connected
+  constant
+  counting
+  covering
+  cyclic
+  decidable
+  descent
+  deterministic
+  dichotomic
+  dyadic
+  dynamic
+  exact
+  exhaustive
+  exponential
+  extended
+  external
+  extremal
+  factorial
+  feasible
+  finite
+  fixed
+  formal
+  forward
+  free
+  greedy
+  hidden
+  inclusive
+  internal
+  intractable
+  inverse
+  inverted
+  isomorphic
+  linear
+  local
+  lower
+  matching
+  maximum
+  mean
+  median
+  minimum
+  mode
+  naive
+  nearest
+  nondeterministic
+  null
+  nullary
+  objective
+  offline
+  online
+  optimal
+  ordered
+  oriented
+  orthogonal
+  oscillating
+  parallel
+  partial
+  perfect
+  persistent
+  planar
+  polynomial
+  proper
+  quadratic
+  ragged
+  random
+  randomized
+  rectilinear
+  recursive
+  reduced
+  relaxed
+  shortest
+  simple
+  sparse
+  spatial
+  square
+  stable
+  swarm
+  symmetric
+  terminal
+  ternary
+  threaded
+  tractable
+  unary
+  undecidable
+  undirected
+  uniform
+  universal
+  unsolvable
+  unsorted
+  visible
+  weighted
 
 {> appearance}
-blazing
-bright
-brilliant
-burning
-clean
-colorful
-dark
-drab
-dull
-faded
-flat
-glossy
-glowing
-light
-matte
-muted
-pale
-pallid
-radiant
-shiny
-sleek
-sunny
-vibrant
-vivid
-wan
-weathered
-worn
+  blazing
+  bright
+  brilliant
+  burning
+  clean
+  colorful
+  dark
+  drab
+  dull
+  faded
+  flat
+  glossy
+  glowing
+  light
+  matte
+  muted
+  pale
+  pallid
+  radiant
+  shiny
+  sleek
+  sunny
+  vibrant
+  vivid
+  wan
+  weathered
+  worn
 
 {> character}
-accepting
-adventurous
-affable
-ambitious
-amiable
-amicable
-annoying
-bold
-brave
-bright
-brutal
-brute
-callous
-calm
-careful
-cautious
-charitable
-cheerful
-clever
-courtly
-creative
-cruel
-curious
-daring
-devout
-eager
-elegant
-energetic
-excited
-ferocious
-forgiving
-free
-friendly
-funny
-generous
-genteel
-gentle
-graceful
-grim
-grouchy
-happy
-heartless
-helpful
-honest
-humane
-humble
-impulsive
-independent
-indulgent
-intense
-inventive
-kind
-lazy
-lenient
-loyal
-meek
-merciless
-merry
-messy
-mild
-neat
-nervous
-obliging
-obnoxious
-odious
-patient
-plain
-pleasant
-polite
-proper
-proud
-quick
-quiet
-refined
-relaxed
-religious
-respectful
-rude
-savage
-selfish
-sensitive
-serious
-shrewd
-silly
-simple
-smart
-soft
-sophisticated
-stern
-strong
-stubborn
-tender
-tense
-timid
-tough
-trusting
-urbane
-vain
-vicious
-violent
-warm
-wise
-witty
+  accepting
+  adventurous
+  affable
+  ambitious
+  amiable
+  amicable
+  annoying
+  bold
+  brave
+  bright
+  brutal
+  brute
+  callous
+  calm
+  careful
+  cautious
+  charitable
+  cheerful
+  clever
+  courtly
+  creative
+  cruel
+  curious
+  daring
+  devout
+  eager
+  elegant
+  energetic
+  excited
+  ferocious
+  forgiving
+  free
+  friendly
+  funny
+  generous
+  genteel
+  gentle
+  graceful
+  grim
+  grouchy
+  happy
+  heartless
+  helpful
+  honest
+  humane
+  humble
+  impulsive
+  independent
+  indulgent
+  intense
+  inventive
+  kind
+  lazy
+  lenient
+  loyal
+  meek
+  merciless
+  merry
+  messy
+  mild
+  neat
+  nervous
+  obliging
+  obnoxious
+  odious
+  patient
+  plain
+  pleasant
+  polite
+  proper
+  proud
+  quick
+  quiet
+  refined
+  relaxed
+  religious
+  respectful
+  rude
+  savage
+  selfish
+  sensitive
+  serious
+  shrewd
+  silly
+  simple
+  smart
+  soft
+  sophisticated
+  stern
+  strong
+  stubborn
+  tender
+  tense
+  timid
+  tough
+  trusting
+  urbane
+  vain
+  vicious
+  violent
+  warm
+  wise
+  witty
 
 {> colors}
-amber
-ash
-asphalt
-auburn
-avocado
-aquamarine
-azure
-beige
-bisque
-black
-blue
-bone
-bordeaux
-brass
-bronze
-brown
-burgundy
-camel
-caramel
-canary
-celeste
-cerulean
-champagne
-charcoal
-chartreuse
-chestnut
-chocolate
-citron
-claret
-coal
-cobalt
-coffee
-coral
-corn
-cream
-crimson
-cyan
-denim
-desert
-ebony
-ecru
-emerald
-feldspar
-fuchsia
-gold
-gray
-green
-heather
-indigo
-ivory
-jet
-khaki
-lime
-magenta
-maroon
-mint
-navy
-olive
-orange
-pink
-plum
-purple
-red
-rust
-salmon
-sienna
-silver
-snow
-steel
-tan
-teal
-tomato
-violet
-white
-yellow
+  amber
+  ash
+  asphalt
+  auburn
+  avocado
+  aquamarine
+  azure
+  beige
+  bisque
+  black
+  blue
+  bone
+  bordeaux
+  brass
+  bronze
+  brown
+  burgundy
+  camel
+  caramel
+  canary
+  celeste
+  cerulean
+  champagne
+  charcoal
+  chartreuse
+  chestnut
+  chocolate
+  citron
+  claret
+  coal
+  cobalt
+  coffee
+  coral
+  corn
+  cream
+  crimson
+  cyan
+  denim
+  desert
+  ebony
+  ecru
+  emerald
+  feldspar
+  fuchsia
+  gold
+  gray
+  green
+  heather
+  indigo
+  ivory
+  jet
+  khaki
+  lime
+  magenta
+  maroon
+  mint
+  navy
+  olive
+  orange
+  pink
+  plum
+  purple
+  red
+  rust
+  salmon
+  sienna
+  silver
+  snow
+  steel
+  tan
+  teal
+  tomato
+  violet
+  white
+  yellow
 
 {> complexity}
-bare
-basic
-clear
-complex
-complicated
-convoluted
-direct
-easy
-elaborate
-fancy
-hard
-intricate
-obvious
-plain
-pure
-simple
+  bare
+  basic
+  clear
+  complex
+  complicated
+  convoluted
+  direct
+  easy
+  elaborate
+  fancy
+  hard
+  intricate
+  obvious
+  plain
+  pure
+  simple
 
 {> construction}
-beveled
-chamfered
-coped
-flashed
-flush
-inflammable
-insulated
-isometric
-joint
-knurled
-laminated
-level
-plumb
-radial
-rigid
-soluble
-tempered
-warped
+  beveled
+  chamfered
+  coped
+  flashed
+  flush
+  inflammable
+  insulated
+  isometric
+  joint
+  knurled
+  laminated
+  level
+  plumb
+  radial
+  rigid
+  soluble
+  tempered
+  warped
 
 {> corporate_prefixes}
-central
-chief
-corporate
-customer
-direct
-district
-dynamic
-forward
-future
-global
-human
-internal
-international
-investor
-lead
-legacy
-national
-principal
-product
-regional
-senior
-staff
+  central
+  chief
+  corporate
+  customer
+  direct
+  district
+  dynamic
+  forward
+  future
+  global
+  human
+  internal
+  international
+  investor
+  lead
+  legacy
+  national
+  principal
+  product
+  regional
+  senior
+  staff
 
 {> emotions}
-afraid
-angry
-calm
-cheerful
-cold
-crabby
-crazy
-cross
-excited
-frigid
-furious
-glad
-glum
-happy
-icy
-jolly
-jovial
-kind
-lively
-livid
-mad
-ornery
-rosy
-sad
-scared
-seething
-shy
-sunny
-tense
-tranquil
-upbeat
-wary
-weary
-worried
+  afraid
+  angry
+  calm
+  cheerful
+  cold
+  crabby
+  crazy
+  cross
+  excited
+  frigid
+  furious
+  glad
+  glum
+  happy
+  icy
+  jolly
+  jovial
+  kind
+  lively
+  livid
+  mad
+  ornery
+  rosy
+  sad
+  scared
+  seething
+  shy
+  sunny
+  tense
+  tranquil
+  upbeat
+  wary
+  weary
+  worried
 
 {> geometry}
-acute
-adjacent
-alternate
-central
-coincident
-collinear
-composite
-concave
-concentric
-congruent
-convex
-coplanar
-diagonal
-distinct
-equidistant
-equilateral
-fixed
-horizontal
-inscribed
-interior
-irregular
-linear
-oblique
-obtuse
-parallel
-perpendicular
-regular
-right
-similar
-vertical
+  acute
+  adjacent
+  alternate
+  central
+  coincident
+  collinear
+  composite
+  concave
+  concentric
+  congruent
+  convex
+  coplanar
+  diagonal
+  distinct
+  equidistant
+  equilateral
+  fixed
+  horizontal
+  inscribed
+  interior
+  irregular
+  linear
+  oblique
+  obtuse
+  parallel
+  perpendicular
+  regular
+  right
+  similar
+  vertical
 
 {> linguistics}
-descriptive
-diachronic
-figurative
-generative
-marked
-regular
-synchronic
-taxonomic
-unproductive
+  descriptive
+  diachronic
+  figurative
+  generative
+  marked
+  regular
+  synchronic
+  taxonomic
+  unproductive
 
 {> materials}
-brass
-chalky
-concrete
-felt
-gilded
-glass
-golden
-iron
-leather
-metal
-metallic
-oily
-paper
-plastic
-silver
-steel
-stone
-watery
-wicker
-wood
-wooden
-woolen
+  brass
+  chalky
+  concrete
+  felt
+  gilded
+  glass
+  golden
+  iron
+  leather
+  metal
+  metallic
+  oily
+  paper
+  plastic
+  silver
+  steel
+  stone
+  watery
+  wicker
+  wood
+  wooden
+  woolen
 
 {> music_theory}
-adagio
-allegro
-andante
-animato
-espressivo
-grandioso
-grave
-largo
-legato
-libretto
-moderato
-molto
-pizzicato
-presto
-staccato
-vibrato
+  adagio
+  allegro
+  andante
+  animato
+  espressivo
+  grandioso
+  grave
+  largo
+  legato
+  libretto
+  moderato
+  molto
+  pizzicato
+  presto
+  staccato
+  vibrato
 
 {> physics}
-absolute
-achromatic
-acoustic
-adiabatic
-alternating
-atomic
-binding
-brownian
-buoyant
-chromatic
-closed
-coherent
-critical
-dense
-direct
-electric
-electrical
-endothermic
-exothermic
-free
-fundamental
-gravitational
-internal
-isobaric
-isochoric
-isothermal
-kinetic
-latent
-magnetic
-mechanical
-natural
-nuclear
-open
-optical
-potential
-primary
-progressive
-quantum
-radiant
-radioactive
-rectilinear
-relative
-resolving
-resonnt
-resultant
-rigid
-volumetric
+  absolute
+  achromatic
+  acoustic
+  adiabatic
+  alternating
+  atomic
+  binding
+  brownian
+  buoyant
+  chromatic
+  closed
+  coherent
+  critical
+  dense
+  direct
+  electric
+  electrical
+  endothermic
+  exothermic
+  free
+  fundamental
+  gravitational
+  internal
+  isobaric
+  isochoric
+  isothermal
+  kinetic
+  latent
+  magnetic
+  mechanical
+  natural
+  nuclear
+  open
+  optical
+  potential
+  primary
+  progressive
+  quantum
+  radiant
+  radioactive
+  rectilinear
+  relative
+  resolving
+  resonnt
+  resultant
+  rigid
+  volumetric
 
 {> quantity}
-all
-another
-each
-either
-every
-few
-many
-numerous
-one
-other
-several
-some
+  all
+  another
+  each
+  either
+  every
+  few
+  many
+  numerous
+  one
+  other
+  several
+  some
 
 {> shape}
-bent
-blocky
-boxy
-broad
-chunky
-compact
-fat
-flat
-full
-narrow
-pointed
-round
-rounded
-skinny
-slim
-solid
-straight
-thick
-thin
-wide
+  bent
+  blocky
+  boxy
+  broad
+  chunky
+  compact
+  fat
+  flat
+  full
+  narrow
+  pointed
+  round
+  rounded
+  skinny
+  slim
+  solid
+  straight
+  thick
+  thin
+  wide
 
 {> size}
-average
-big
-broad
-flat
-giant
-huge
-humongous
-immense
-large
-little
-long
-massive
-medium
-miniature
-short
-small
-tall
-tiny
-wide
+  average
+  big
+  broad
+  flat
+  giant
+  huge
+  humongous
+  immense
+  large
+  little
+  long
+  massive
+  medium
+  miniature
+  short
+  small
+  tall
+  tiny
+  wide
 
 {> sound}
-blaring
-booming
-deafening
-faint
-gentle
-grating
-hushed
-loud
-muffled
-mute
-noisy
-piercing
-quiet
-roaring
-rowdy
-silent
-soft
-thundering
+  blaring
+  booming
+  deafening
+  faint
+  gentle
+  grating
+  hushed
+  loud
+  muffled
+  mute
+  noisy
+  piercing
+  quiet
+  roaring
+  rowdy
+  silent
+  soft
+  thundering
 
 {> speed}
-agile
-express
-fast
-hasty
-immediate
-instant
-late
-lazy
-nimble
-poky
-prompt
-quick
-rapid
-slow
-sluggish
-speedy
-spry
-swift
+  agile
+  express
+  fast
+  hasty
+  immediate
+  instant
+  late
+  lazy
+  nimble
+  poky
+  prompt
+  quick
+  rapid
+  slow
+  sluggish
+  speedy
+  spry
+  swift
 
 {> taste}
-bitter
-chalky
-chewy
-creamy
-crispy
-crunchy
-dry
-greasy
-gritty
-mild
-moist
-oily
-plain
-salty
-savory
-sour
-spicy
-sweet
-tangy
-tart
-zesty
+  bitter
+  chalky
+  chewy
+  creamy
+  crispy
+  crunchy
+  dry
+  greasy
+  gritty
+  mild
+  moist
+  oily
+  plain
+  salty
+  savory
+  sour
+  spicy
+  sweet
+  tangy
+  tart
+  zesty
 
 {> temperature}
-blistering
-burning
-chill
-cold
-cool
-freezing
-frigid
-frosty
-hot
-icy
-molten
-nippy
-scalding
-searing
-sizzling
-warm
+  
+  blistering
+  burning
+  chill
+  cold
+  cool
+  freezing
+  frigid
+  frosty
+  hot
+  icy
+  molten
+  nippy
+  scalding
+  searing
+  sizzling
+  warm
 
 {> weather}
-arctic
-arid
-breezy
-calm
-chilly
-cloudy
-cold
-cool
-damp
-dark
-dry
-foggy
-freezing
-frosty
-great
-hot
-humid
-icy
-light
-mild
-nice
-overcast
-rainy
-smoggy
-snowy
-sunny
-warm
-windy
-wintry
+  arctic
+  arid
+  breezy
+  calm
+  chilly
+  cloudy
+  cold
+  cool
+  damp
+  dark
+  dry
+  foggy
+  freezing
+  frosty
+  great
+  hot
+  humid
+  icy
+  light
+  mild
+  nice
+  overcast
+  rainy
+  smoggy
+  snowy
+  sunny
+  warm
+  windy
+  wintry

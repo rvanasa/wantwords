@@ -1,36 +1,34 @@
-{> adj_obj:}
-
 {> adj}
-Cool
-Giant
-Tiny
-Dusty
-Old
-Crunchy
-Inflatable
-Elon Musk's
-Leaky
-Soggy
-Giant Killer
-Mysterious
-Orange
-Rusty
-Slimy
-Just A Normal
-Bodily Disassociated
+  Cool
+  Giant
+  Tiny
+  Dusty
+  Old
+  Crunchy
+  Inflatable
+  Elon Musk's
+  Leaky
+  Soggy
+  Giant Killer
+  Mysterious
+  Orange
+  Rusty
+  Slimy
+  Just A Normal
+  Bodily Disassociated
 
 {> obj}
-Car
-Robot
-Dinosaur
-Cat
-Book
-Necronomicon
-Mech Suit
-Laser
-Machine
-Hat
-Friend
-Sandwich
-Crowbar
-Portal
+  Car
+  Robot
+  Dinosaur
+  Cat
+  Book
+  Necronomicon
+  Mech Suit
+  Laser
+  Machine
+  Hat
+  Friend
+  Sandwich
+  Crowbar
+  Portal
